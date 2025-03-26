@@ -1,5 +1,7 @@
 # YouTube ASCII Video Player [Avaible on 3 languages]
 
+# <p align="center"> ![preview](https://cdn.discordapp.com/attachments/1349345021131751448/1354518548000674006/ezgif-728003d494b218.gif?ex=67e59533&is=67e443b3&hm=1b77881e011c6e2e501b68c35140dccf3434ad6f87c78248d401cf353bb74813&)
+
 YouTube to ASCII terminal art using python
 
 ## Features
