@@ -1,0 +1,4 @@
+pytubefix
+opencv-python==4.5.5.64
+numpy==1.22.3
+termcolor==1.1.0
