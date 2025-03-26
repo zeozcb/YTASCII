@@ -28,8 +28,6 @@ YouTube to ASCII terminal art using python
 
 3. Install FFmpeg to enable audio playback: 
 
-- You can freely skip this step on Windows if you have cloned the repository.
-
 - On Windows: Download from [FFmpeg](https://www.ffmpeg.org/download.html#build-windows) official website and add to path
 - On macOS: `brew install ffmpeg`
 - On Linux: `sudo apt-get install ffmpeg`
@@ -80,8 +78,6 @@ How to stop? No one knows! :D
 
 3. Установи FFmpeg для воспроизведения аудио:
 
-- Ты можешь пропустить этот шаг на Виндовс, если ты клонировал репозиторий.
-
 - Windows: Скачай с [официального сайта FFmpeg](https://www.ffmpeg.org/download.html#build-windows) и добавь в системную переменную PATH
 - macOS: `brew install ffmpeg`
 - Linux: `sudo apt-get install ffmpeg`
@@ -131,8 +127,6 @@ How to stop? No one knows! :D
 
 
 3. 安装FFmpeg以启用音频播放：
-
-- 如果您在Windows上克隆了仓库，可以跳过此步骤。
 
 - Windows：从[FFmpeg](https://www.ffmpeg.org/download.html#build-windows)官方网站下载并添加到路径
 - macOS：`brew install ffmpeg`
